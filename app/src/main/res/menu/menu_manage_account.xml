@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.books.bookify.ManageAccount">
+    <item
+        android:id="@+id/one"
+        android:title="Delete"
+        />
+    <item
+        android:id="@+id/two"
+        android:title="Hide For Now"/>
+</menu>
